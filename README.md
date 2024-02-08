@@ -1,1 +1,1 @@
-Probando comandos para subir archivos a nuestro repositorio en github
+Prueba como clonar un repositorio desde github a mi computadora
